@@ -2,5 +2,5 @@ This folder is created to check
 bracnching.
 This first changes are done directly without branches
 Branch1 changes
-Branch2 changes 
-May be conflict
+Branch2 changes - Branch 2 changes 
+May be conflict - Checking for conflict from branch 2
