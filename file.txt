@@ -1,6 +1,6 @@
 This folder is created to check 
 bracnching.
 This first changes are done directly without branches
-Branch1 changes
+Branch1 changes - Changing this text from branh 1
 Branch2 changes 
 May be conflict
